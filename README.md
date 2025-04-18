@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `AnonymousFeedbackBox` smart contract allows users to submit anonymous feedback securely, with the feedback being stored in a decentralized and tamper-proof way. The feedback is stored as an IPFS hash, ensuring privacy and security. Only the contract's admin can view the feedback.
+The `Anonymous Feedback` smart contract allows users to submit anonymous feedback securely, with the feedback being stored in a decentralized and tamper-proof way. The feedback is stored as an IPFS hash, ensuring privacy and security. Only the contract's admin can view the feedback.
 
 ## Features
 
