@@ -1,4 +1,4 @@
-# Anonymous Feedback Box - Smart Contract
+# Anonymous Feedback - Smart Contract
 
 ## Overview
 
